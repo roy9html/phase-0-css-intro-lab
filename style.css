@@ -1,5 +1,3 @@
-
-style.css part
 /* Tag selector to select the 'body' element */
 body {
   background: #00b3e6;
@@ -22,5 +20,5 @@ div {
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  font-style: italic;
+  font-style: italic;
 }
